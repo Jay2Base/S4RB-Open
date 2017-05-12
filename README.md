@@ -11,7 +11,7 @@ $ npm install -g json-server
 $ json-server --watch db/db.json
 ```
 
-## 1. Develop a basic reporting portal using any frameworks you see fit for purpose.
+## 1. Develop a basic reporting portal using any frameworks you see fit for purpose. Making sure to include appropriate testing
 
 ![Example Reporting Porta](/example-2.png "Example Reporting Portal")
 
